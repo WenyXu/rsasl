@@ -45,7 +45,7 @@ default = [
     "xoauth2",
     "plain",
     "login",
-    "gssapi"
+    # "gssapi"
 ]
 
 #! # Compile-time mechanism selection
